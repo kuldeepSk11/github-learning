@@ -1,0 +1,17 @@
+echo "# github-learning" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/premkuldeep/github-learning.git
+git push -u origin master
+
+learn git part-1
+
+git init
+git add (filename) ||-a
+git status
+git commit -m "message"
+git remote add origin repoName
+git push origin master
+git clone repoName
+git pull origin master
